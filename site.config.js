@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "YUNHYUK NAM",
+    name: "be-hmn",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Computer Security Student",
     bio: "Studying Cyber Threat Intelligence and pursuing a better tomorrow.",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "BE:HUMAN",
-    description: "CTI · Blue Team · Security Research Notes",
+    description: "My Study Notes",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
